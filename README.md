@@ -190,4 +190,11 @@ Web Designer & Developer
 
 ---
 
+## Project Status
+
+> Actively maintained and improved as part of my developer portfolio.
+
+---
+
 ⭐ If you find this project useful or interesting, consider giving the repository a star.
+
