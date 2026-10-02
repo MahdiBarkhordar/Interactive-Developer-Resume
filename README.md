@@ -194,7 +194,12 @@ Web Designer & Developer
 
 > Actively maintained and improved as part of my developer portfolio.
 
+## Development
+
+> This project is continuously improved with new features, refinements, and performance updates.
+
 ---
+
 
 ⭐ If you find this project useful or interesting, consider giving the repository a star.
 
