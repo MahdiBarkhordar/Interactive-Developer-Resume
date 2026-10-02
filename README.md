@@ -1,6 +1,6 @@
-# ✦ Mehdi Barkhordar — Interactive Portfolio
+# ✦ Mahdi Barkhordar — Interactive Portfolio
 
-> A modern, interactive, and responsive personal portfolio website for **Mehdi Barkhordar**, a Web Designer & Developer from Kerman, Iran.
+> A modern, interactive, and responsive personal portfolio website for **Mahdi Barkhordar**, a Web Designer & Developer from Kerman, Iran.
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-Interactive-65c98b?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-100%25-orange?style=for-the-badge\&logo=html5)
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About
 
-Hi, I'm **Mehdi Barkhordar**, a Web Designer & Developer focused on creating modern, responsive, and user-focused digital experiences.
+Hi, I'm **Mahdi Barkhordar**, a Web Designer & Developer focused on creating modern, responsive, and user-focused digital experiences.
 
 * 📍 Kerman Province, Iran
 * 🎂 17 years old
@@ -182,7 +182,7 @@ The portfolio can be continuously updated with new projects, skills, certificate
 
 ## 👨‍💻 Author
 
-**Mehdi Barkhordar**
+**Mahdi Barkhordar**
 
 Web Designer & Developer
 
